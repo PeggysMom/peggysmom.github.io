@@ -3,8 +3,9 @@
 <body style="background-color: antiquewhite">
     
     <h1 style="font-family: sans-serif; font: arial; color: teal; text-align: center" >Max for Live Devices</h1>
-<center>
+    <center>
     <img src="Akaiify.png"> 
+    </center>
 
 <p style= "text-align: left; color:cadetblue">
     <a href="https://maxforlive.com/library/device/9194/akai-ify-digital-saturation-filter" target="_blank">Akai-ify Digital saturation</a> 
@@ -19,4 +20,4 @@
     <a href="https://maxforlive.com/library/device/9199/automaton-robo-composer" target="_blank">Automaton Robo-Composer</a> 
     </p>
        
-</center>
+

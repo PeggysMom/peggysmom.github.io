@@ -2,15 +2,14 @@
 <html>
 <body style="background-color: antiquewhite">
     
-    <h1 style="font-family: sans-serif; font: arial; color: teal; text-align: center; text-shadow: 2px 2px darkblue" >Max for Live Devices</h1>
-   
+    <h1 style="font-family: sans-serif; font: arial; color: teal; text-align: center" >Max for Live Devices</h1>
+<center>
     <img src="Akaiify.png"> 
 
-<p style= "text-align: center; color:red">
+<p style= "text-align: left; color:cadetblue">
     <a href="https://maxforlive.com/library/device/9194/akai-ify-digital-saturation-filter" target="_blank">Akai-ify Digital saturation</a> 
     </p>
     
-    <br>
 
     <img src="robo.png" width=700; height=169; object-fit= cover>
 
@@ -19,3 +18,5 @@
     <p style= "text-align: left; color:cadetblue">
     <a href="https://maxforlive.com/library/device/9199/automaton-robo-composer" target="_blank">Automaton Robo-Composer</a> 
     </p>
+       
+</center>
